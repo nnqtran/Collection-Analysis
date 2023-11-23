@@ -39,8 +39,8 @@
 
 ## IV. Insights
 1. In terms of total collection
-* ASA, HMK, GLX, NDC, TCG are the top companies with a lot of debt.
-* BFC, FBI, TDO companies collect the least amount of debt.
+* ASA, HMK, GLX, NDC, and TCG are the top companies with a lot of debt.
+* BFC, FBI, and TDO companies collect the least amount of debt.
 
 2. In terms of Range_DPD
 * Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
@@ -77,7 +77,7 @@ Debt allocation by loan term to OS_company Long-term: TDO Mid-term: FBI, NDC
 
 4. NDC is a company that handles debts well: like Deadloan vs other of Product_final.
 
-5. Deadloan accounts have a high payout ratio in the last months of the year 10, 11, 12.
+5. Deadloan accounts have a high payout ratio in the last months of the year 10, 11, and 12.
 
 6. December is the month with the highest repayment rate of the year, then it drops to the lowest in February.
 
