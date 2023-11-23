@@ -51,13 +51,13 @@
 3. In terms of Recovery rate
 * The top companies with high revocery rates are: AMG>FBI>DK>HMK ., respectively.
 
-4. Customers have a high demand for mid-term loans 37.79%, then short-term: 28.49%, long-term: 20.82%.
+4. Customers have a high demand for mid-term loans 37.79%, then short-term: 28.49%, and long-term: 20.82%.
 
 5. Short-term is the easiest loan to claim (the highest recovery rate).
 
 6. In contrast, Long-term has the lowest return rate.
 
-7. Deadloan has the highest loan ratio: unsecured Loan, Secured Loan, Credit Card.
+7. Deadloan has the highest loan ratio: unsecured Loan, Secured Loan, and Credit Card.
 
 ## V. Recommendations
 
